@@ -1,3 +1,6 @@
 I am adding 3 lines to the Random.txt file!
 This is how it's done.
 Goodbye!
+I am adding 3 lines to the Random.txt file!
+This is how it's done.
+Goodbye!
