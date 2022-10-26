@@ -23,10 +23,10 @@ echo "What is the commit name?"
 read NAME
 
 #############################################
-# If you want the commit to feature a date	#
-# Then do the following						#
-# DATE=$(date)								#	
-# git commit -m "Changes made on $DATE"		#
+# If you want the commit to feature a date	
+# Then do the following						
+# DATE=$(date)									
+# git commit -m "Changes made on $DATE"		
 #############################################
 
 git commit -m "$NAME"
