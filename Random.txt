@@ -1,6 +1,4 @@
-I am adding 3 lines to the Random.txt file!
+I am adding some lines to the Random.txt file!
 This is how it's done.
-Goodbye!
-I am adding 3 lines to the Random.txt file!
-This is how it's done.
+This will now be featured in my git repo.
 Goodbye!
