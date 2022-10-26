@@ -11,7 +11,8 @@ echo "This is how it's done." >> Random.txt
 echo "This will now be featured in my git repo." >> Random.txt
 echo "Goodbye!" >> Random.txt
 
-# Chech the 
+# Check the repo
+git remote -v
 
 # Now, we initialize Git, add the file
 # and commit the file 
